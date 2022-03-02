@@ -1,0 +1,1 @@
+O conteúdo prático desse modulo foi feito MySQL através do CMD.
