@@ -17,4 +17,12 @@ Foi um módulo bem rápido, explicando um pouco sobre o que é HTTP e como funci
 Neste modulo, tive uma introdução ao Express.js e seus fundamentos, do porque devemos utiliza-lo e como realizar a instalação. Também tive uma introdução ao "npm" e apredi como iniciar uma aplicação com Express. Além disso, o mais importante o módulo, foi aprender sobre como funcionam as Rotas e como podemos criar rotas de diferentes formas, utilizando diversos tipos de parâmetros. E por fim, realizei a instalação do Nodemon para conseguir ver as alterações no código sem precisar ficar toda hora reiniciando o servidor.
 
 ### Modulo 04
-Será feita uma introdução básica ao My SQL e depois daremos inicio a um projeto prático.
+Foi feito uma introdução básica, mas bem bacana ao MySQL, explicando os principais comandos para visualizar, usar, criar, alterar e deletar Bancos de Dados e Tabelas, com algumas dicas muito importantes.
+
+### Modulo 05
+Para começar, tive uma introdução ao EJS (Embedded Javascript), como configurá-lo na minha aplicação e como utiliza-lo no back-end e no front-end, passando os dados através da rota e exibindo-os no código HTML. Também vi como exibir código HTML dentro da aplicação NodeJS, aprendi a utilizar arquivos estáticos no projeto e realizamos a instalação de algumas bibliotecas, como o 'body-parser" e o 'sequelize'.
+
+Durante o módulo, fomos realizando a construção das rotas, juntamente com o front-end e back-end do projeto, realizando a construção de cada página e suas funcionalidades, implementando o banco de dados e abordando principalmente a listagem e criação de itens.
+
+### Modulo 06 (A seguir...)
+Neste módulo faremos o Deploy da aplicação e do banco MySQL em uma VPS na Digital Ocean.
