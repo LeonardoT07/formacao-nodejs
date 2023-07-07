@@ -26,3 +26,5 @@ Durante o módulo, fomos realizando a construção das rotas, juntamente com o f
 
 ### Modulo 06 (A seguir...)
 Neste módulo faremos o Deploy da aplicação e do banco MySQL em uma VPS na Digital Ocean.
+
+...
