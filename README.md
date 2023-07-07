@@ -3,7 +3,7 @@ Neste curso, espero aprender a criar grandes sistemas web, robustos e escalávei
 
 Durante o curso, eu quero documentar cada modulo no Notion, como forma de estudo. Eu acredito que para você conseguir explicar, você precisa entender, e eu quero aplicar esse conceito para fixar meus conhecimentos durante o curso, além de poder tirar dúvidas e consultar no futuro.<br/>
 
-Se você se interessar, aqui está a minha [Documentação](https://www.notion.so/Forma-o-NodeJS-8fc0aae69f8c45e5b4c78890e1922479) de estudos.
+Se você se interessar, aqui está a minha [Documentação]([https://www.notion.so/Forma-o-NodeJS-8fc0aae69f8c45e5b4c78890e1922479](https://wirehaired-woodpecker-e49.notion.site/Forma-o-NodeJS-8fc0aae69f8c45e5b4c78890e1922479)) de estudos.
 
 <hr>
 
